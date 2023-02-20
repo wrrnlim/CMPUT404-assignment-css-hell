@@ -21,4 +21,12 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+gutenberg.css styles by Warren Lim
 
+Files in gutenberg-html from [Project Gutenberg](https://www.gutenberg.org/)
+
+The following style modifications were made to the gutenberg-html files:
+- Apply "Dancing Script" font from Google Fonts to `h2` elements
+- Apply "Times New Roman" font to `p` elements and centre with a width of 80%
+- Change background colour to #fff7e8
+- Add box shadow for images
