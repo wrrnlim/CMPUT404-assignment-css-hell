@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+a > img {
+  padding: 0.5em 0;
+}
+
+footer {
+  margin: 0 auto;
+  text-align: center;
+  font-size: smaller;
+}
+
+.banner {
+  margin: 0 auto;
+  text-align: center;
+  padding: 3em;
+  background-color: #979797;
+}
+
+.container {
+  margin: 0 auto;
+  width: 75%;
+  max-width: 1200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/* Define a style for the content element */
+.content {
+  width: 75%;
+}
+
+/* Define a style for the sidebar element */
+.sidebar {
+  width: 25%;
+  background-color: #efefef;
+  border: 1px solid #efefef;
+  border-radius: 5px;
+  margin: 1em;
+  padding: 0.5em;
+  box-sizing: border-box;
+}
+
+.sidebar > h2 {
+  margin-top: 0.5em;
+}
+
+ul {
+  text-decoration: none;
+}

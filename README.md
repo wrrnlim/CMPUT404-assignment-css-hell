@@ -23,10 +23,12 @@ Code is licensed under the Apache 2.0 license.
 
 gutenberg.css styles by Warren Lim
 
-Files in gutenberg-html from [Project Gutenberg](https://www.gutenberg.org/)
+Files in `part1/` from [Project Gutenberg](https://www.gutenberg.org/)
 
-The following style modifications were made to the gutenberg-html files:
+The following style modifications were made to the part1 files:
 - Apply "Dancing Script" font from Google Fonts to `h2` elements
 - Apply "Times New Roman" font to `p` elements and centre with a width of 80%
 - Change background colour to #fff7e8
 - Add box shadow for images
+
+Files in `part2` is copyright Warren Lim (C) 2023 under the CC-BY-SA 4.0 unported license.
