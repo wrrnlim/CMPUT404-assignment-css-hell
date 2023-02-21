@@ -27,8 +27,8 @@ footer {
 .container {
   margin: 0 auto;
   width: 75%;
-  max-width: 1200px;
   display: flex;
+  min-width: 30em;
   flex-direction: row;
   justify-content: space-between;
 }
